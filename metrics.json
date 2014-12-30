@@ -1,0 +1,144 @@
+{
+    "result": [
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - % Log Used",
+            "displayNameShort": "MSSQL - % Log Used",
+            "isDisabled": 0,
+            "name": "MSSQL_PERCENT_LOG_USED",
+            "unit": "percent"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - Active Temp Tables",
+            "displayNameShort": "MSSQL - Temp Tables",
+            "isDisabled": 0,
+            "name": "MSSQL_ACTIVE_TEMP_TABLES",
+            "unit": "number"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - Compilations",
+            "displayNameShort": "MSSQL - Compilations",
+            "isDisabled": 0,
+            "name": "MSSQL_COMPILATIONS",
+            "unit": "number"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - IO Latch Waits",
+            "displayNameShort": "MSSQL - IO Latch Wts",
+            "isDisabled": 0,
+            "name": "MSSQL_PAGE_IO_LATCH_WAITS",
+            "unit": "number"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - Lock Average Wait Time (ms)",
+            "displayNameShort": "MSSQL - Lck Avg Wait",
+            "isDisabled": 0,
+            "name": "MSSQL_LOCK_AVERAGE_WAIT_TIME_MS",
+            "unit": "number"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - Lock Timeouts",
+            "displayNameShort": "MSSQL - Lock Timeout",
+            "isDisabled": 0,
+            "name": "MSSQL_LOCK_TIMEOUTS",
+            "unit": "number"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - Lock Timeouts (>0)",
+            "displayNameShort": "MSSQL - Lock Tm >0",
+            "isDisabled": 0,
+            "name": "MSSQL_LOCK_TIMEOUTS_GT0",
+            "unit": "number"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - Lock Wait Time (ms)",
+            "displayNameShort": "MSSQL - Lock Wait Tm",
+            "isDisabled": 0,
+            "name": "MSSQL_LOCK_WAIT_TIME_MS",
+            "unit": "number"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - Lock Waits",
+            "displayNameShort": "MSSQL - Lock Waits",
+            "isDisabled": 0,
+            "name": "MSSQL_LOCK_WAITS",
+            "unit": "number"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - Logical Connections",
+            "displayNameShort": "MSSQL - Logicl Conns",
+            "isDisabled": 0,
+            "name": "MSSQL_LOGICAL_CONNECTIONS",
+            "unit": "number"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - Processes Blocked",
+            "displayNameShort": "MSSQL - Proc Blocked",
+            "isDisabled": 0,
+            "name": "MSSQL_PROCESSES_BLOCKED",
+            "unit": "number"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - Replication Pending Transactions",
+            "displayNameShort": "MSSQL - Repl Pend Xc",
+            "isDisabled": 0,
+            "name": "MSSQL_REPL_PENDING_XACTS",
+            "unit": "number"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - Transactions",
+            "displayNameShort": "MSSQL - Transactions",
+            "isDisabled": 0,
+            "name": "MSSQL_TRANSACTIONS",
+            "unit": "number"
+        },
+        {
+            "defaultAggregate": "avg",
+            "defaultResolutionMS": 1000,
+            "description": "",
+            "displayName": "MSSQL - User Connections",
+            "displayNameShort": "MSSQL - User Conns",
+            "isDisabled": 0,
+            "name": "MSSQL_USER_CONNECTIONS",
+            "unit": "number"
+        }
+    ]
+}
