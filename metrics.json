@@ -2,7 +2,7 @@
     "result": [
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - % Log Used",
             "displayNameShort": "MSSQL - % Log Used",
@@ -12,7 +12,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - Active Temp Tables",
             "displayNameShort": "MSSQL - Temp Tables",
@@ -22,7 +22,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - Compilations",
             "displayNameShort": "MSSQL - Compilations",
@@ -32,7 +32,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - IO Latch Waits",
             "displayNameShort": "MSSQL - IO Latch Wts",
@@ -42,7 +42,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - Lock Average Wait Time (ms)",
             "displayNameShort": "MSSQL - Lck Avg Wait",
@@ -52,7 +52,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - Lock Timeouts",
             "displayNameShort": "MSSQL - Lock Timeout",
@@ -62,7 +62,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - Lock Timeouts (>0)",
             "displayNameShort": "MSSQL - Lock Tm >0",
@@ -72,7 +72,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - Lock Wait Time (ms)",
             "displayNameShort": "MSSQL - Lock Wait Tm",
@@ -82,7 +82,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - Lock Waits",
             "displayNameShort": "MSSQL - Lock Waits",
@@ -92,7 +92,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - Logical Connections",
             "displayNameShort": "MSSQL - Logicl Conns",
@@ -102,7 +102,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - Processes Blocked",
             "displayNameShort": "MSSQL - Proc Blocked",
@@ -112,7 +112,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - Replication Pending Transactions",
             "displayNameShort": "MSSQL - Repl Pend Xc",
@@ -122,7 +122,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - Transactions",
             "displayNameShort": "MSSQL - Transactions",
@@ -132,7 +132,7 @@
         },
         {
             "defaultAggregate": "avg",
-            "defaultResolutionMS": 1000,
+            "defaultResolutionMS": 30000,
             "description": "",
             "displayName": "MSSQL - User Connections",
             "displayNameShort": "MSSQL - User Conns",
